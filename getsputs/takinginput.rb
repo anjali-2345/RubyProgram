@@ -35,7 +35,7 @@ else
     false
 end
  
-
+#/apply if-else condition
 puts "Enter your mail:"
 mail =gets
 
